@@ -1,0 +1,18 @@
+{
+	"name": "Isaac Kim",
+	"website": "https://isaachkim.netlify.app/",
+	"linkedin": "https://www.linkedin.com/in/isaachkim/",
+	"github": "kimisaac1998",
+	"email": "kimisaac1998@gmail.com",
+	"resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Node",
+		"HTML5",
+		"CSS",
+		"JSX",
+		"GitHub"
+	],
+	"otherSkills": ["English", "Spanish", "Management"]
+}
